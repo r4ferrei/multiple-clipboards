@@ -1,0 +1,100 @@
+[
+	{
+		"keys": ["alt+c", "1"],
+		"command": "multiple_clipboards",
+		"args": {"action": "copy", "index": 1}
+	},
+	{
+		"keys": ["alt+v", "1"],
+		"command": "multiple_clipboards",
+		"args": {"action": "paste", "index": 1}
+	},
+
+	{
+		"keys": ["alt+c", "2"],
+		"command": "multiple_clipboards",
+		"args": {"action": "copy", "index": 2}
+	},
+	{
+		"keys": ["alt+v", "2"],
+		"command": "multiple_clipboards",
+		"args": {"action": "paste", "index": 2}
+	},
+
+	{
+		"keys": ["alt+c", "3"],
+		"command": "multiple_clipboards",
+		"args": {"action": "copy", "index": 3}
+	},
+	{
+		"keys": ["alt+v", "3"],
+		"command": "multiple_clipboards",
+		"args": {"action": "paste", "index": 3}
+	},
+
+	{
+		"keys": ["alt+c", "4"],
+		"command": "multiple_clipboards",
+		"args": {"action": "copy", "index": 4}
+	},
+	{
+		"keys": ["alt+v", "4"],
+		"command": "multiple_clipboards",
+		"args": {"action": "paste", "index": 4}
+	},
+
+	{
+		"keys": ["alt+c", "5"],
+		"command": "multiple_clipboards",
+		"args": {"action": "copy", "index": 5}
+	},
+	{
+		"keys": ["alt+v", "5"],
+		"command": "multiple_clipboards",
+		"args": {"action": "paste", "index": 5}
+	},
+
+	{
+		"keys": ["alt+c", "6"],
+		"command": "multiple_clipboards",
+		"args": {"action": "copy", "index": 6}
+	},
+	{
+		"keys": ["alt+v", "6"],
+		"command": "multiple_clipboards",
+		"args": {"action": "paste", "index": 6}
+	},
+
+	{
+		"keys": ["alt+c", "7"],
+		"command": "multiple_clipboards",
+		"args": {"action": "copy", "index": 7}
+	},
+	{
+		"keys": ["alt+v", "7"],
+		"command": "multiple_clipboards",
+		"args": {"action": "paste", "index": 7}
+	},
+
+	{
+		"keys": ["alt+c", "8"],
+		"command": "multiple_clipboards",
+		"args": {"action": "copy", "index": 8}
+	},
+	{
+		"keys": ["alt+v", "8"],
+		"command": "multiple_clipboards",
+		"args": {"action": "paste", "index": 8}
+	},
+
+	{
+		"keys": ["alt+c", "9"],
+		"command": "multiple_clipboards",
+		"args": {"action": "copy", "index": 9}
+	},
+	{
+		"keys": ["alt+v", "9"],
+		"command": "multiple_clipboards",
+		"args": {"action": "paste", "index": 9}
+	}
+]
