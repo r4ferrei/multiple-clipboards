@@ -1,8 +1,8 @@
 Multiple Clipboards
 ===================
 
-Sublime Text 2 Plugin that allows users to keep multiple clipboards at the same time.
--------------------------------------------------------------------------------------
+Have more than one simultaneous clipboard in Sublime Text 2
+------------------------------------------------------------
 
 Sometimes, I wish I had more than one clipboard simultaneously available to me.
 This plugin solves this issue in ST2 by creating as many as 9 of them. Copy into
